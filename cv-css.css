@@ -1,0 +1,33 @@
+img {
+    float: right;
+    overflow: hidden;
+}
+
+.header {
+    background-color: lightblue;
+    text-align: center;
+    text-decoration: none;
+    text-shadow: 2px 2px 4px black;
+    margin-bottom: 0px;
+}
+
+.info h4 {
+    font-size: 30px;
+    font-weight: 800;
+}
+
+.education {
+    display: flex;
+}
+
+.education ul {
+    border: solid 2px lightblue;
+}
+
+.skills h4 {
+    font-size: 30px;
+}
+
+.contact h4 {
+    font-size: 30px;
+}
